@@ -5,7 +5,11 @@
  */
 
 var app = require('./app');
+<<<<<<< HEAD
 var debug = require('debug')('comp229-assignment1:server');
+=======
+var debug = require('debug')('COMP229-Assignment1:server');
+>>>>>>> aeffc5176387f9221e6e9b00a19733e7f6cbe3c4
 var http = require('http');
 
 /**
