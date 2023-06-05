@@ -1,6 +1,6 @@
 {
-  "name": "assignment1",
-  "version": "0.0.1",
+  "name": "comp229-assignment1",
+  "version": "0.0.2",
   "private": true,
   "scripts": {
     "start": "node ./server.js"
@@ -22,12 +22,12 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/primateq/COMP229-Assignment1.git"
+    "url": "git+https://github.com/primateq/comp229-assignment1.git"
   },
   "author": "Alessandra Primatesta",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/primateq/COMP229-Assignment1/issues"
+    "url": "https://github.com/primateq/comp229-assignment1/issues"
   },
-  "homepage": "https://github.com/primateq/COMP229-Assignment1#readme"
+  "homepage": "https://github.com/primateq/comp229-assignment1#readme"
 }
