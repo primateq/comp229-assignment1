@@ -1,1 +1,31 @@
 /* custom css goes here */
+
+.homeinfo {
+    text-align: center;
+    padding: 2rem;
+}
+
+.aboutinfo {
+    text-align: center;
+    padding: 2rem;
+}
+
+.projectsinfo {
+    text-align: center;
+    padding: 2rem;
+}
+
+.servicesinfo {
+    text-align: center;
+    padding: 2rem;
+}
+
+.contactform {
+    text-align: center;
+    padding: 2rem;
+}
+
+
+* {
+    font-family: sans-serif;
+}
