@@ -1,3 +1,8 @@
+/*File name: comp229-assignment1
+Student Name: Alessandra Primatesta
+Student ID: 301.297.110
+Date: June 4, 2023*/
+
 //Installed 3rd party packages
 let createError = require('http-errors');
 let express = require('express');

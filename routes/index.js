@@ -1,3 +1,8 @@
+/*File name: comp229-assignment1
+Student Name: Alessandra Primatesta
+Student ID: 301.297.110
+Date: June 4, 2023*/
+
 let express = require('express');
 let router = express.Router();
 

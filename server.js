@@ -1,4 +1,7 @@
-#!/usr/bin/env node
+/*File name: comp229-assignment1
+Student Name: Alessandra Primatesta
+Student ID: 301.297.110
+Date: June 4, 2023*/
 
 /**
  * Module dependencies.
